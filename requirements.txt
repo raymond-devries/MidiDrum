@@ -1,0 +1,6 @@
+flask
+eventlet
+python-socketio
+python-rtmidi
+numpy
+flask-socketio
